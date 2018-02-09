@@ -1,0 +1,1 @@
+void rt_hw_beep_init(void);
